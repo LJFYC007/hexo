@@ -16,7 +16,9 @@ tags:
 
 令$sum[i]=\sum_{j=1}^{i}x_j$
 
-方程可以化为$dp[i]=max(dp[j]+a(sum[i]-sum[j])^2+b(sum[i]-sum[j])+c)(0\leq j<i)$
+方程可以化为
+
+$dp[i]=max(dp[j]+a(sum[i]-sum[j])^2+b(sum[i]-sum[j])+c)(0\leq j<i)$
 
 如果由$x$转换到$i$比$y$转换到$i$更优，则有
 $$
