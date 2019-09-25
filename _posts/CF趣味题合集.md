@@ -11,5 +11,5 @@ tags:
 
 <!-- more -->
 
-*   [CF799D]搜索，[题解]([http://ljf-cnyali.cn/2019/09/25/CF799D-%E6%90%9C%E7%B4%A2/](http://ljf-cnyali.cn/2019/09/25/CF799D-搜索/))
+*   [CF799D]搜索 Difficulty : 2000 [题解]([http://ljf-cnyali.cn/2019/09/25/CF799D-%E6%90%9C%E7%B4%A2/](http://ljf-cnyali.cn/2019/09/25/CF799D-搜索/))
 
