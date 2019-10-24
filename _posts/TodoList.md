@@ -67,6 +67,7 @@ gfm: true
     - [ ] 线段树历史最值问题
     - [x] 线段树合并
     - [ ] 线段树分裂
+    - [ ] 线段树分治
   - [ ] 高维问题
     - [x] K-DTree
     - [ ] Bitset优化高维偏序问题
@@ -104,6 +105,7 @@ gfm: true
     - [ ] 上下界网络流
   - [ ] 平面图 & 对偶图
   - [x] Tarjan全家桶
+  - [ ] 2-SAT问题
   - [ ] 竞赛图
   - [x] [基环树](http://ljf-cnyali.cn/tags/%E5%9F%BA%E7%8E%AF%E6%A0%91/)
   - [ ] 仙人掌相关
@@ -119,12 +121,19 @@ gfm: true
     - [x] 单调队列优化DP
     - [x] [斜率优化DP](http://ljf-cnyali.cn/tags/%E6%96%9C%E7%8E%87%E4%BC%98%E5%8C%96/)
     - [x] 决策单调性优化DP
-  - [x] 动态DP
+  - [x] [动态DP](https://oi-wiki.org/dp/dynamic/)(OI-WIKI上该篇由我完成)
   - [ ] DP OF DP
 - [ ] 其它技巧
   - [x] [二进制分组](http://ljf-cnyali.cn/tags/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%88%86%E7%BB%84/)
   - [x] [分块](http://ljf-cnyali.cn/tags/%E5%88%86%E5%9D%97/)
-  - [x] [01分数规划](http://ljf-cnyali.cn/tags/%E5%88%86%E6%95%B0%E8%A7%84%E5%88%92/)
-
+  - [x] [0/1分数规划](http://ljf-cnyali.cn/tags/%E5%88%86%E6%95%B0%E8%A7%84%E5%88%92/)
+  - [ ] 莫队
+    - [x] 普通莫队
+    - [x] 带修莫队
+    - [x] 树上莫队
+    - [ ] 回滚莫队
+    - [ ] 二次离线莫队
+  - [ ] 整体二分
+  - [x] CDQ分治
 - [ ] 计算几何
   这是天坑...咕咕咕
