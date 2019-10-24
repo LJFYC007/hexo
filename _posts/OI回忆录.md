@@ -3,7 +3,7 @@ title: OI回忆录
 date: 2019-10-20 08:28:13
 tags:
   - 退役记
-top: on
+top: true
 ---
 
 高一成功退役
