@@ -17,11 +17,11 @@ gfm: true
   - [ ] 拓展KMP
   - [x] Trie
   - [x] Manacher
-  - [ ] 后缀数组
+  - [x] 后缀数组
   - [ ] SA-IS
   - [ ] 自动机
     - [x] [AC自动机](http://ljf-cnyali.cn/tags/AC%E8%87%AA%E5%8A%A8%E6%9C%BA/)
-    - [ ] 后缀自动机
+    - [x] [后缀自动机](http://ljf-cnyali.cn/tags/%E5%90%8E%E7%BC%80%E8%87%AA%E5%8A%A8%E6%9C%BA/)
     - [ ] 广义后缀自动机
     - [ ] 回文自动机
 - [ ] [数学](http://ljf-cnyali.cn/tags/%E6%95%B0%E8%AE%BA/)
@@ -74,13 +74,13 @@ gfm: true
     - [x] 可并堆(左偏树)
     - [ ] 配对堆
     - [ ] 斐波那契堆
-  - [ ] 珂朵莉树
+  - [x] 珂朵莉树
   - [ ] [线段树及其拓展](http://ljf-cnyali.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/)
     - [ ] ZKW线段树
     - [ ] 猫树
     - [x] [李超树](http://ljf-cnyali.cn/tags/%E6%9D%8E%E8%B6%85%E6%A0%91/)
     - [ ] 线段树历史最值问题
-    - [x] 线段树合并
+    - [x] [线段树合并](http://ljf-cnyali.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91%E5%90%88%E5%B9%B6/)
     - [ ] 线段树分裂
     - [ ] 线段树分治
   - [ ] 高维问题
